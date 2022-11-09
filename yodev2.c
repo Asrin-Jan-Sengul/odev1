@@ -16,7 +16,7 @@ int main()
     scanf("%f", &boy);
 
     vkindeks = kilo / (boy * boy);
-
+    //k
     if (18.50 <= vkindeks && vkindeks <= 24.99 && 13 <= age && age <= 17)
     {
         printf("\nKabul edildiniz!");
